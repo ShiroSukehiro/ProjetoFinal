@@ -1,0 +1,14 @@
+
+
+------------------------------------------------------------------------------------
+
+
+CRIAR VARIAVEL PARA CADA CHECKBOX Q ELE SELECIONAR SE SIM OU SE NÃO
+
+VARIAVEL PARA CADA UNIDADE MAS PROVAVELMENTE JÁ ESTA PRONTO NO "CASE"
+
+
+<form method="get" action="calculo.php"></form>  
+
+vou utilizar no ACTION: o arquivo php aonde vai ser enviado oque preencheu? ou a variavel
+ q vai guardar?
